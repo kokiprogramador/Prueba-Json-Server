@@ -1,0 +1,100 @@
+{
+  "profesores": [
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Química"
+          },
+          {
+            "nombre": "Biología"
+          }
+        ]
+      },
+      "id": "7a6e"
+    },
+    {
+      "0": {
+        "nombre": "Merlina",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Química"
+          },
+          {
+            "nombre": "Biología"
+          },
+          {
+            "nombre": "Física"
+          }
+        ]
+      },
+      "id": "dfc1",
+      "apellido": "Developer",
+      "nombre": "Merlina"
+    },
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Química"
+          },
+          {
+            "nombre": "Biología"
+          }
+        ]
+      },
+      "id": "388d"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "d737"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "9f72"
+    },
+    {
+      "id": "e78c",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 9
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duración": 7,
+      "dificultad": "intermedio",
+      "id": "4a3e"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duración": 7.5,
+      "dificultad": "fácil",
+      "id": "51bd"
+    },
+    {
+      "nombre": "Javascropt desde cero",
+      "duración": 14,
+      "dificultad": "difícil",
+      "id": "9acd"
+    },
+    {
+      "id": "1972",
+      "nombre": "Java desde cero",
+      "duración": 20,
+      "dificultad": "Muy difícil"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Armaremos un pequeño servidor con información de cursos",
+  "main": "app.js",
+  "scripts": {
+		"start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Peña",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
